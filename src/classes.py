@@ -1,5 +1,34 @@
 import collections
 
+class Image:
+    
+    def __init__(self, name, height, width) -> None:
+        self.name = name
+        self.height = height
+        self.width = width
+        self.area = height*width
+        self.crossval = False
+        
+        self.AOI = []
+        
+        self.TEXT = []
+        
+        self.IMG = []
+        
+        self.PART = []
+        
+    def setMetadata(self):
+        self.crossval = True
+        
+        
+    def add_labels(self, name, ident, data_dict):
+        
+        self.data[ident] = collections.defaultdict(str)
+        
+        self.data[ident]["name"] = name
+        self.data[ident]["data"] = data_dict
+        
+
 class PrimaPagina:
     
     def __init__(self, name, height, width) -> None:
