@@ -1,5 +1,21 @@
+
+
 <!-- toc -->
 
+- [Intro](#intro)
+- [Code](#code)
+  * [Input format](#input-format)
+  * [Output format](#output-format)
+  * [Required python packages](#required-python-packages)
+- [Annotation Schema](#annotation-schema)
+  * [Area of interest](#area-of-interest)
+  * [Text](#text)
+  * [Image](#image)
+  * [Participant](#participant)
+  * [Relationship: connected metaphor](#relationship-connected-metaphor)
+  * [Relationship: contained](#relationship-contained)
+
+<!-- tocstop -->
 
 # Intro
 
