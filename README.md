@@ -3,7 +3,8 @@
 
 # Intro
 
-This repository contains code developed for the project "" investigating emerging metaphors during the Covid-19 outbreak.
+This repository contains code developed for the project "Verbal and visual metaphors for coronavirus at the health crisis onset: 'Emerging styles' of representation in British and Italian front page news".
+The study investigates emerging metaphors during the Covid-19 outbreak and was presented at [CIRM 2023](https://cirm.unige.it/node/284) ("Le metafore alla prova dei generi testuali").
 
 The project was developed by researchers [Antonella Luporini](https://www.unibo.it/sitoweb/antonella.luporini) and [Roberta Combei](https://unipv.unifind.cineca.it/resource/person/1213697) with the support of [Laboratorio Sperimentale](https://site.unibo.it/laboratorio-sperimentale/it).
 
