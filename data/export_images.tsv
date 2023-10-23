@@ -1,0 +1,16 @@
+ANNOTATOR	PRIMA_PAGINA	ID	CLOSENESS	ANGLE	AREA	CULTURAL_CONTEXT	METAPHOR	METAPHOR_EXP	TARGET	SOURCE	SENTIMENT	EMOTION	METONIMIA	CONTAINED_IN
+ANNOTATOR03	IMG1293	clnhye6md000y2v6oqze7bprk	other	other	12971.0		sì		epidemia	calcio	positive	trust		clnhycpa500072v6o0a6xozry
+ANNOTATOR02	IMG1293	clnvi053k000l3b6oh6320536	landscape	eye-level	11752.0	Italian sport, football	sì	Un calciatore da un calcio al virus (al posto del pallone), la didascalia è "rinvio"	Covid/Virus	Sport/Calcio	neutral	anticipation	No	clnvhyd9y00013b6o4idrrc44
+ANNOTATOR01	IMG1293	clnx363r9003l356o8oc7wxvd	other	top-down	19026.0	Italian	sì		Virus	Sport: football	positive	trust	PM for whole country	clnx32qh9002m356osbrb78bs
+ANNOTATOR03	IMG7895	clnj1oaff002j2v6oqy0qijny	focus	eye-level	209592.0	carnevale di venezia	no							clnj1nfgj001z2v6o409nbdz6
+ANNOTATOR03	IMG8654	clnohwz8v00ke356mkxdpcpyj	focus	eye-level	88660.0		no							clnohug5r00jd356myxhma8hp
+ANNOTATOR02	IMG8654	clnvp2fph00af3b6ovizu9sxv	focus	eye-level	90792.0		sì		Virus/Pandemic : "contenere" (mil.) is connected to the soldier from the Italian Army in the image	Military/War: "contenere" (mil.) is connected to the soldier from the Italian Army in the image	neutral	fear		clnvowtg2009s3b6okyrwwzed
+ANNOTATOR02	IMG8654	clnxsadzz002m3b6oh0p5ijqw	landscape	top-down	12138.0	people saying hi and waving at each other instead of shaking hands	no				neutral	joy	no	clnxs9yxs002e3b6oqa4c22x2
+ANNOTATOR01	IMG8654	clnx92wdp004c356o3j8argjx	focus	eye-level	91060.0		sì	The presence of a soldier, clearly recognisable by the uniform, evokes a military scenario with the virus (implicitly) as invader	Virus	War	negative	fear	Mask for country situation?	clnx8sngy0032356otrt47ilz
+ANNOTATOR03	IMG1462	clnsq447200dp3b6ouwmfhn5l	focus	eye-level	110187.0	wuhan	no							clnsq38m400d33b6ocvpczqyt
+ANNOTATOR01	IMG1462	clnxaa17v00ad356oefybbqr2	focus	eye-level	110112.0	Eastern/ Chinese (physical traits)	no				negative	fear, sadness	Mask for country/ world situation?	clnxa24w20090356o6lcpzyul
+ANNOTATOR02	IMG1462	clnxpi1kc004w3b6oq71ty2cf	focus	eye-level	112424.0	Chinese woman in a hospital	no				negative	disgust, fear, trust	no	clnxpdes8003q3b6o3j9inw0y
+ANNOTATOR03	IMG7563	clnt8d4si005v2v6omp2v7cjw	focus	eye-level	32661.0		no							clnt8cins005g2v6ooagq1vxl
+ANNOTATOR03	IMG1918	clnt9t81g007a2v6ow4ibqk8c	focus	eye-level	3200320.0		no							clnt9iyyw006h2v6oxluvbfer
+ANNOTATOR02	IMG1918	clnxpprsq006y3b6oieyd7mlo	focus	bottom-up	3265587.0	Vatican City	no				neutral	sadness, surprise	no	clnxplkhl005o3b6oc8gulw25
+ANNOTATOR01	IMG1918	clnxq5ods0086356olj2ajruj	landscape	bottom-up	3225903.0	Italian, Saint Peter's Church clearly recognisable in background	no				negative	fear, sadness	Mask for country situation?	clnxq20a00074356obd32hi1m

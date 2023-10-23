@@ -1,0 +1,24 @@
+ANNOTATOR	PRIMA_PAGINA	ID	MAIN_ARTICLE	COVID_RELATED	DOMINANCE	AREA
+ANNOTATOR03	IMG1293	clnhyc0t900022v6o273ljyt1	yes	yes	text dominant	52206.6323335	
+ANNOTATOR03	IMG1293	clnhycpa500072v6o0a6xozry	no	yes	image dominant	17527.746222	
+ANNOTATOR02	IMG1293	clnvhyd9y00013b6o4idrrc44	no	yes	image dominant	16840.0	
+ANNOTATOR02	IMG1293	clnxrla0s00013b6odyuo4fyg	no	yes	text dominant	13746.739361500004	
+ANNOTATOR02	IMG1293	clnxsejqe003e3b6oz4oza2yo	yes	yes	text dominant	54092.12872750001	
+ANNOTATOR01	IMG1293	clnx1t0500027356o702r15fg	yes	yes	text dominant	40438.15493049999	
+ANNOTATOR01	IMG1293	clnx32qh9002m356osbrb78bs	yes	yes	image dominant	37233.211750500006	
+ANNOTATOR03	IMG4675	clnhzdecl02ps07io1rg10ee4	yes	yes	text dominant	45983.93467050003	
+ANNOTATOR03	IMG7895	clnj1lcpi001d2v6o4bwmzb25	yes	no	text dominant	179614.5368305	
+ANNOTATOR03	IMG7895	clnj1nfgj001z2v6o409nbdz6	no	yes	image dominant	254514.45827249996	
+ANNOTATOR03	IMG8654	clnohug5r00jd356myxhma8hp	yes	yes	image dominant	144523.69344	
+ANNOTATOR02	IMG8654	clnvowtg2009s3b6okyrwwzed	yes	yes	image dominant	139504.54609699998	
+ANNOTATOR02	IMG8654	clnxs2lod001o3b6oxgaz8ont	no	yes	text dominant	20611.0732605	
+ANNOTATOR02	IMG8654	clnxs9yxs002e3b6oqa4c22x2	no	yes	image dominant	19101.712877000005	
+ANNOTATOR01	IMG8654	clnx8sngy0032356otrt47ilz	yes	yes	image dominant	201459.69531599997	
+ANNOTATOR03	IMG1462	clnsq38m400d33b6ocvpczqyt	yes	yes	complementary	280128.235008	
+ANNOTATOR01	IMG1462	clnxa24w20090356o6lcpzyul	yes	yes	image dominant	216982.8361665	
+ANNOTATOR02	IMG1462	clnxpdes8003q3b6o3j9inw0y	yes	yes	complementary	287776.0772404999	
+ANNOTATOR03	IMG7563	clnt8b3xl004h2v6o8m21ncww	yes	yes	text dominant	208173.45109450002	
+ANNOTATOR03	IMG7563	clnt8cins005g2v6ooagq1vxl	no	yes	image dominant	50775.39989850001	
+ANNOTATOR03	IMG1918	clnt9iyyw006h2v6oxluvbfer	yes	yes	complementary	6964600.0	
+ANNOTATOR02	IMG1918	clnxplkhl005o3b6oc8gulw25	yes	yes	image dominant	5846350.283304499	
+ANNOTATOR01	IMG1918	clnxq20a00074356obd32hi1m	yes	yes	complementary	5173343.877038	

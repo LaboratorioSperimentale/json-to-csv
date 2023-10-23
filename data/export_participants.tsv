@@ -1,0 +1,21 @@
+ANNOTATOR	PRIMA_PAGINA	ID	AREA	TYPE	GAZE	GESTURE	POSTURE	ROLE	PROCESS	CONTAINED_IN
+ANNOTATOR03	IMG1293	clnhygqen001d2v6o83850ed8	983.7628890000012					undergoer		clnhye6md000y2v6oqze7bprk
+ANNOTATOR03	IMG1293	clnhyhdil001i2v6o33hwz8rt	2878.2397779999997					actor		clnhye6md000y2v6oqze7bprk
+ANNOTATOR02	IMG1293	clnvi6h0y00123b6oxpqc1fq7	3869.0	agent (football player), processi materiali	elsewhere (towards the virus)	open hands	running	actor		clnvi053k000l3b6oh6320536
+ANNOTATOR01	IMG1293	clnx36ypb003u356orrec1oac	4418.150248999999	Giuseppe Conte - cartoon	Side - away from reader	Symbolic - hitting ball/virus	Dynamic, turned to side, leg up	actor		clnx363r9003l356o8oc7wxvd
+ANNOTATOR01	IMG1293	clnx3ao4m0043356onqzyl27v	1729.1770324999989	Coronavirus - cartoon	Not applicable	Not applicable	Not applicable	undergoer		clnx363r9003l356o8oc7wxvd
+ANNOTATOR03	IMG7895	clnj1oyth002u2v6onovs9k07	78127.75661799998	policeman	towards participant		standing	actor		clnj1oaff002j2v6oqy0qijny
+ANNOTATOR03	IMG7895	clnj1qe3700332v6olaz7kdjy	64793.81613199999	maschera veneziana	towards participant		standing	actor		clnj1oaff002j2v6oqy0qijny
+ANNOTATOR03	IMG8654	clnohxhh100kp356mozmdw22z	49169.9479375	militar	towards camera	showing direction	standing	actor		clnohwz8v00ke356mkxdpcpyj
+ANNOTATOR02	IMG8654	clnvp5kbg00ax3b6oeyvg9slp	46365.234780000006	Italian soldier	directed towards the camera	directing  thetraffic, giving instructions; the soldier holds a traffic paddle in one hand	standing and directing the traffic	actor		clnvp2fph00af3b6ovizu9sxv
+ANNOTATOR02	IMG8654	clnxsbcad00303b6oq62wapyn	3861.241459500002	two people (drawn, comics) waving at each other  instead of shaking hands	looking at each other	waving at each other	standing/walking	actor		clnxsadzz002m3b6oh0p5ijqw
+ANNOTATOR01	IMG8654	clnx96tlx004s356oiumptdnd	75546.23516650002	Human (soldier)	At the viewer	Symbolic - 'go ahead'	Standing	other		clnx92wdp004c356o3j8argjx
+ANNOTATOR03	IMG1462	clnsq4ueb00e53b6oovyrt3wn	53145.15961199999	woman	towards camera			actor		clnsq447200dp3b6ouwmfhn5l
+ANNOTATOR01	IMG1462	clnxab4jy00at356ooqlqd4cp	58868.17147399998	Human	At the viewer	Not applicable	Standing? Sitting?	other		clnxaa17v00ad356oefybbqr2
+ANNOTATOR02	IMG1462	clnxpj7wf005f3b6op8cmws19	51154.281863	Chinese woman wearing a mask in a hospital	towards the camera	n.a. (hands are not visible)	presumably seated on a hospital bed	undergoer		clnxpi1kc004w3b6oq71ty2cf
+ANNOTATOR03	IMG7563	clnt8dd7p00632v6o3kjsfv6t	8172.650579000001	dog	away from camera			undergoer		clnt8d4si005v2v6omp2v7cjw
+ANNOTATOR03	IMG1918	clnt9us7a007p2v6og7lakouh	637112.0	woman		handling scarf	standing	actor		clnt9t81g007a2v6ow4ibqk8c
+ANNOTATOR02	IMG1918	clnxpqyra007f3b6o1jqy877s	574295.1400949999	tourist (woman)	looking elsewhere (down)	one hand in a pocket, the other touching the scarf	standing	actor		clnxpprsq006y3b6oieyd7mlo
+ANNOTATOR02	IMG1918	clnxpspwo007o3b6oukz7stlu	704750.0653545	tourist (man)	looking towards the camera	one open hand, the other one is not visible	standing	undergoer		clnxpprsq006y3b6oieyd7mlo
+ANNOTATOR01	IMG1918	clnxq7geh008m356o6kiau80v	862689.3059825001	Human	To side, away from viewer	Symbolic - holding scarf as if to protect herself	Walking, turned to side	other		clnxq5ods0086356olj2ajruj
+ANNOTATOR01	IMG1918	clnxq9585008v356oygj8wy35	978662.2897934999	Human	Directed at viewer	Symbolic - arms down, close to body, resignation?	Standing, slightly turned to side	other		clnxq5ods0086356olj2ajruj

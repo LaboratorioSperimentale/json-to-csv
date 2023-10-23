@@ -1,0 +1,46 @@
+ANNOTATOR	PRIMA_PAGINA	ID	TYPE	AREA	METAPHOR	METAPHOR_QUOT	TARGET	SOURCE	SENTIMENT	EMOTION	METONIMIA	CONTAINED_IN
+ANNOTATOR03	IMG1293	clnhyd6ug000d2v6ou6ahwmbh		8500.0	no							clnhyc0t900022v6o273ljyt1
+ANNOTATOR03	IMG1293	clnhydnqx000k2v6oqwfy4m4b		20500.0	no							clnhyc0t900022v6o273ljyt1
+ANNOTATOR03	IMG1293	clnhydvsh000r2v6oigfgcu5r		11022.0	no							clnhyc0t900022v6o273ljyt1
+ANNOTATOR03	IMG1293	clnhyifou001s2v6o8d9x7udj		256.0	sì	rinvio	epidemia	calcio				clnhye6md000y2v6oqze7bprk
+ANNOTATOR02	IMG1293	clnvhzdzp00093b6oojyly03c		885.0	no				negative	anticipation	no	clnvhyd9y00013b6o4idrrc44
+ANNOTATOR02	IMG1293	clnxrlrx100093b6ogdm0g08q		3634.0	sì	"Milano è forte e ripartirà"	Italian cities/Milan	Transportation/Vehicles/Engine	positive	trust, anticipation	yes	clnxrla0s00013b6odyuo4fyg
+ANNOTATOR02	IMG1293	clnxsfjln003m3b6ofa5sfb0x		23594.0	no				neutral	joy, sadness		clnxsejqe003e3b6oz4oza2yo
+ANNOTATOR01	IMG1293	clnx34nbm0030356o0dcqczkz		13581.0	no				negative	fear		clnx1t0500027356o702r15fg
+ANNOTATOR01	IMG1293	clnx35a6j0037356od3kdl9ys		19617.0	no				positive	trust		clnx1t0500027356o702r15fg
+ANNOTATOR01	IMG1293	clnx35p5c003e356o26ceh8jp		8602.0	no				negative	fear, anger		clnx1t0500027356o702r15fg
+ANNOTATOR03	IMG4675	clnhzdecl02pt07iofwffbuts		7952.0	no						palazzo chigi per membri del governo; esecutivo per membri del governo; salvini per parlamentari della lega	clnhzdecl02ps07io1rg10ee4
+ANNOTATOR03	IMG4675	clnhzdecl02px07ioc3koaxbe		20120.0	no						governo per membri del governo	clnhzdecl02ps07io1rg10ee4
+ANNOTATOR03	IMG4675	clnhzdecl02q307io9nhm8y68		8602.0	no							clnhzdecl02ps07io1rg10ee4
+ANNOTATOR03	IMG7895	clnj1lr4f001j2v6oqtj1nesf		39690.0	no							clnj1lcpi001d2v6o4bwmzb25
+ANNOTATOR03	IMG7895	clnj1lykx001q2v6ot3n6jvvx		12766.0	sì	prepare trade talk battle lines	political discussion	guerrilla				clnj1lcpi001d2v6o4bwmzb25
+ANNOTATOR03	IMG7895	clnj1ntnk00252v6oduswsvot		19479.0	no							clnj1nfgj001z2v6o409nbdz6
+ANNOTATOR03	IMG7895	clnj1o0kk002c2v6orpik2gax		12400.0	no							clnj1nfgj001z2v6o409nbdz6
+ANNOTATOR03	IMG8654	clnohvv7b00jl356m3cxzysfe		9424.0	no							clnohug5r00jd356myxhma8hp
+ANNOTATOR03	IMG8654	clnohw48400js356mviekpyo0		19422.0	no							clnohug5r00jd356myxhma8hp
+ANNOTATOR03	IMG8654	clnohwcrk00jz356m3sr505cb		9481.0	no							clnohug5r00jd356myxhma8hp
+ANNOTATOR03	IMG8654	clnohwots00k6356m1sq0ccxy		4046.0	no							clnohug5r00jd356myxhma8hp
+ANNOTATOR02	IMG8654	clnvoy2ps00a03b6onbt8uglu		21000.0	sì	" contenere il virus"	Virus/Pandemic	Military/War (source: https://www.garzantilinguistica.it/ricerca/?q=contenere)	neutral	trust, anticipation	no	clnvowtg2009s3b6okyrwwzed
+ANNOTATOR02	IMG8654	clnxs33m9001w3b6os3tg37v1		8832.0	sì	"l'epidemia sta rallentando"	Pandemic/Virus	Transportation/Vehicles/Engine	positive	anticipation, trust, joy		clnxs2lod001o3b6oxgaz8ont
+ANNOTATOR01	IMG8654	clnx8tcnn003a356ont7q7wty		11569.0	no				negative	fear		clnx8sngy0032356otrt47ilz
+ANNOTATOR01	IMG8654	clnx8ua9a003l356o26oo3pdi		18108.0	sì	Nuove misure per contenere il virus	Virus	Physical object (visible and in motion) 	neutral	trust, anticipation		clnx96tlx004s356oiumptdnd
+ANNOTATOR01	IMG8654	clnx8x4gj0041356oaakem66v		12072.0	no				positive	trust		clnx8sngy0032356otrt47ilz
+ANNOTATOR03	IMG1462	clnsq3r4e00db3b6oiml5bt6c		50800.0	no							clnsq38m400d33b6ocvpczqyt
+ANNOTATOR03	IMG1462	clnsq3xk200di3b6o4egppj62		9144.0	no							clnsq38m400d33b6ocvpczqyt
+ANNOTATOR03	IMG1462	clnsq4mgi00dz3b6oesk6u0ru		6714.0	no							clnsq38m400d33b6ocvpczqyt
+ANNOTATOR01	IMG1462	clnxa5qm3009f356o61n47u48		49294.0	sì	under threat from coronavirus	Coronavirus	War	negative	fear, anger	Sport events for 'normal' life in general??	clnxa24w20090356o6lcpzyul
+ANNOTATOR01	IMG1462	clnxa7a42009z356os6d9w6l1		12600.0	sì	Army prepares emergency action	Coronavirus/ illness	War (linked to/ reinforcing title)	negative	fear		clnxa24w20090356o6lcpzyul
+ANNOTATOR02	IMG1462	clnxpdy1u003y3b6o30h10yjw		50274.0	sì	"top sports events under threat from coronavirus"	Sports	War/Battle	neutral	fear, anticipation	yes	clnxpdes8003q3b6o3j9inw0y
+ANNOTATOR02	IMG1462	clnxpgj0w004f3b6o0qgy11wt		4128.0	sì	"army prepares emergency action"	Pandemic Measures	War/Military	neutral	trust, anticipation	yes	clnxpdes8003q3b6o3j9inw0y
+ANNOTATOR03	IMG7563	clnt8bnfz004p2v6orregh645		8940.0	no							clnt8b3xl004h2v6o8m21ncww
+ANNOTATOR03	IMG7563	clnt8bu0c004w2v6oxurw33ko		89838.0	no							clnt8b3xl004h2v6o8m21ncww
+ANNOTATOR03	IMG7563	clnt8c3zv00532v6onurz2lmz		28337.0	no							clnt8b3xl004h2v6o8m21ncww
+ANNOTATOR03	IMG7563	clnt8cay1005a2v6obzhot5iy		44287.0	no							clnt8b3xl004h2v6o8m21ncww
+ANNOTATOR03	IMG7563	clnt8cy1p005o2v6omenppdoh		8342.0	no							clnt8cins005g2v6ooagq1vxl
+ANNOTATOR03	IMG1918	clnt9ozrp006p2v6ol6o3mfyw		781776.0	sì	close over coronavirus threat	pandemic	isolation	positive	trust		clnt9iyyw006h2v6oxluvbfer
+ANNOTATOR03	IMG1918	clnt9sw9x00732v6ovadcntkw		631040.0	no							clnt9iyyw006h2v6oxluvbfer
+ANNOTATOR03	IMG1918	clnt9u6nq007j2v6owgial84e		176800.0	no							clnt9iyyw006h2v6oxluvbfer
+ANNOTATOR02	IMG1918	clnxpm3c4005w3b6ogouthd4b		804726.0	no	""			negative	anticipation, fear	yes	clnxplkhl005o3b6oc8gulw25
+ANNOTATOR02	IMG1918	clnxpnm6g006e3b6o1ro736jb		183750.0	sì	"GPs and hospitals step up testing to combat spread of disease"	Hospitals/Pandemic measures	War/Military/Battle	neutral	trust, anticipation, fear	yes	clnxplkhl005o3b6oc8gulw25
+ANNOTATOR01	IMG1918	clnxq2hsf007c356o4n2ytf25		830592.0	sì	coronavirus threat	coronavirus	war	negative	fear	institutions (schools) for people	clnxq20a00074356obd32hi1m
+ANNOTATOR01	IMG1918	clnxq3bjv007r356o2e2v41kz		625455.0	sì	combat spread of disease	disease	war + moving physical object (spread)	negative	fear	Nations for people? (Three more countries detect)	clnxq20a00074356obd32hi1m

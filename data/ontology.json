@@ -1,0 +1,891 @@
+{
+ "id": "clmunzfgd004e07zaduyra0yv",
+ "name": "Covid metaphor",
+ "tools": [
+  {
+   "schemaNodeId": "clmunzfh2004g07zac7fd2qrt",
+   "featureSchemaId": "clmunzfh1004f07zafmjz0q9g",
+   "required": false,
+   "name": "area of interest",
+   "tool": "polygon",
+   "color": "#1CE6FF",
+   "archived": 0,
+   "classifications": [
+    {
+     "schemaNodeId": "clnhy9xeh042v07xv1oei77cv",
+     "featureSchemaId": "clnhy9xeh042o07xv7f3ph5ho",
+     "archived": 0,
+     "required": true,
+     "instructions": "dominance of modality",
+     "name": "dominance_of_modality",
+     "type": "radio",
+     "position": 0,
+     "kind": "RadioQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clnhy9xeh042q07xv8ovudnmw",
+       "featureSchemaId": "clnhy9xeh042p07xvebjk8edi",
+       "label": "text dominant",
+       "value": "text_dominant",
+       "position": 0,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clnhy9xeh042s07xv7fw1czgr",
+       "featureSchemaId": "clnhy9xeh042r07xv2mjhf8kh",
+       "label": "image dominant",
+       "value": "image_dominant",
+       "position": 1,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clnhy9xeh042u07xve4jxd5ui",
+       "featureSchemaId": "clnhy9xeh042t07xv7zrx8req",
+       "label": "complementary",
+       "value": "complementary",
+       "position": 2,
+       "kind": "RadioOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "clnhy9xeh043107xv9duc6b8o",
+     "featureSchemaId": "clnhy9xeh042w07xv6kj37ltl",
+     "archived": 0,
+     "required": true,
+     "instructions": "main article",
+     "name": "main_article",
+     "type": "radio",
+     "position": 1,
+     "kind": "RadioQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clnhy9xeh042y07xv1eu8f9ok",
+       "featureSchemaId": "clnhy9xeh042x07xve9kz4inp",
+       "label": "yes",
+       "value": "yes",
+       "position": 0,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clnhy9xeh043007xvcz7rah96",
+       "featureSchemaId": "clnhy9xeh042z07xv06t01d6w",
+       "label": "no",
+       "value": "no",
+       "position": 1,
+       "kind": "RadioOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "clnsosw7f06uu0718dddo2f36",
+     "featureSchemaId": "clnsosw7f06up0718ati10ytt",
+     "archived": 0,
+     "required": true,
+     "instructions": "covid related",
+     "name": "covid_related",
+     "type": "radio",
+     "uiMode": "hotkey",
+     "position": 2,
+     "kind": "RadioQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clnsosw7f06ur0718490m8q4c",
+       "featureSchemaId": "clnsosw7f06uq0718cpr30w5l",
+       "label": "yes",
+       "value": "yes",
+       "position": 0,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clnsosw7f06ut07184zuv8duq",
+       "featureSchemaId": "clnsosw7f06us0718etlxev1g",
+       "label": "no",
+       "value": "no",
+       "position": 1,
+       "kind": "RadioOption"
+      }
+     ]
+    }
+   ],
+   "kind": "Polygon"
+  },
+  {
+   "schemaNodeId": "clmunzfh2004i07za21r67cu8",
+   "featureSchemaId": "clmunzfh2004h07zafh8hdhuh",
+   "required": false,
+   "name": "testo",
+   "tool": "rectangle",
+   "color": "#FF34FF",
+   "archived": 0,
+   "classifications": [
+    {
+     "schemaNodeId": "clmuo1it900yq07xzepwoh5wz",
+     "featureSchemaId": "clmuo1it900yh07xzdyti39mt",
+     "archived": 0,
+     "required": true,
+     "instructions": "tipo",
+     "name": "tipo",
+     "type": "radio",
+     "uiMode": "hotkey",
+     "position": 0,
+     "kind": "RadioQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clmuo1it900yj07xz2ldu11em",
+       "featureSchemaId": "clmuo1it900yi07xz2t7x103c",
+       "label": "titolo",
+       "value": "titolo",
+       "position": 0,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuo1it900yl07xzgd707jd9",
+       "featureSchemaId": "clmuo1it900yk07xz1sei4m32",
+       "label": "sottotitolo",
+       "value": "sottotitolo",
+       "position": 1,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuo1it900yn07xzgzzwghu4",
+       "featureSchemaId": "clmuo1it900ym07xzhd520b5q",
+       "label": "didascalia",
+       "value": "didascalia",
+       "position": 2,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuo1it900yp07xz6wxvgs9p",
+       "featureSchemaId": "clmuo1it900yo07xz0xvl1q1r",
+       "label": "altro",
+       "value": "altro",
+       "position": 3,
+       "kind": "RadioOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "clmuo1it900yw07xz4w3j67r4",
+     "featureSchemaId": "clmuo1it900yr07xzflzg5bsg",
+     "archived": 0,
+     "required": true,
+     "instructions": "metafora",
+     "name": "metafora",
+     "type": "radio",
+     "uiMode": "hotkey",
+     "position": 1,
+     "kind": "RadioQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clmuo1it900yt07xz87rh3dxg",
+       "featureSchemaId": "clmuo1it900ys07xz72xlb1zd",
+       "label": "sì",
+       "value": "si",
+       "position": 0,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuo1it900yv07xzbj535f3p",
+       "featureSchemaId": "clmuo1it900yu07xzfet4fdv4",
+       "label": "no",
+       "value": "no",
+       "position": 1,
+       "kind": "RadioOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "cln8lzgpo2wrx073jbb1d1x0h",
+     "featureSchemaId": "cln8lzgpo2wrw073j40glaxa4",
+     "archived": 0,
+     "required": false,
+     "instructions": "metafora_quot",
+     "name": "metafora_exp",
+     "type": "text",
+     "position": 2,
+     "kind": "Text",
+     "options": []
+    },
+    {
+     "schemaNodeId": "clmuocg0n00f207zadk21a614",
+     "featureSchemaId": "clmuocg0n00f107za519hc8fz",
+     "archived": 0,
+     "required": false,
+     "instructions": "target domain",
+     "name": "target_domain",
+     "type": "text",
+     "position": 3,
+     "kind": "Text",
+     "options": []
+    },
+    {
+     "schemaNodeId": "clmuocg0n00f407zad4ik2vo6",
+     "featureSchemaId": "clmuocg0n00f307za601l4hn9",
+     "archived": 0,
+     "required": false,
+     "instructions": "source domain",
+     "name": "source_domain",
+     "type": "text",
+     "position": 4,
+     "kind": "Text",
+     "options": []
+    },
+    {
+     "schemaNodeId": "clmuocg0o00fc07za5kwnf1aq",
+     "featureSchemaId": "clmuocg0o00f507za8o772v93",
+     "archived": 0,
+     "required": false,
+     "instructions": "sentiment",
+     "name": "sentiment",
+     "type": "radio",
+     "uiMode": "hotkey",
+     "position": 5,
+     "kind": "RadioQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clmuocg0o00f707zafo84axcr",
+       "featureSchemaId": "clmuocg0o00f607za466xcchp",
+       "label": "negative",
+       "value": "negative",
+       "position": 0,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0o00f907zabu8xbzw0",
+       "featureSchemaId": "clmuocg0o00f807zaah0gdapv",
+       "label": "neutral",
+       "value": "neutral",
+       "position": 1,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0o00fb07zadp7ffm8n",
+       "featureSchemaId": "clmuocg0o00fa07za112mani0",
+       "label": "positive",
+       "value": "positive",
+       "position": 2,
+       "kind": "RadioOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "clmuocg0o00fu07zacia0bjsc",
+     "featureSchemaId": "clmuocg0o00fd07zahvrjcg69",
+     "archived": 0,
+     "required": false,
+     "instructions": "emotion",
+     "name": "emotion",
+     "type": "checklist",
+     "uiMode": "hotkey",
+     "position": 6,
+     "kind": "CheckboxQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clmuocg0o00ff07zabi3b37rp",
+       "featureSchemaId": "clmuocg0o00fe07za65x8h3q3",
+       "label": "fear",
+       "value": "fear",
+       "position": 0,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0o00fh07za9jruhnzp",
+       "featureSchemaId": "clmuocg0o00fg07zaaj4427vs",
+       "label": "anger",
+       "value": "anger",
+       "position": 1,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0o00fj07za9lws0c17",
+       "featureSchemaId": "clmuocg0o00fi07zafx6kbyb5",
+       "label": "trust",
+       "value": "trust",
+       "position": 2,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0o00fl07zah9onb49e",
+       "featureSchemaId": "clmuocg0o00fk07zagt5w0dq6",
+       "label": "sadness",
+       "value": "sadness",
+       "position": 3,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0o00fn07zaethj0619",
+       "featureSchemaId": "clmuocg0o00fm07zag7jc65nf",
+       "label": "disgust",
+       "value": "disgust",
+       "position": 4,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0o00fp07za7vc6fo2b",
+       "featureSchemaId": "clmuocg0o00fo07za2j7y3ovj",
+       "label": "surprise",
+       "value": "surprise",
+       "position": 5,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0o00fr07zagidr96n2",
+       "featureSchemaId": "clmuocg0o00fq07za1qpu21gm",
+       "label": "anticipation",
+       "value": "anticipation",
+       "position": 6,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0o00ft07za3dpb0p6g",
+       "featureSchemaId": "clmuocg0o00fs07zafox10q9w",
+       "label": "joy",
+       "value": "joy",
+       "position": 7,
+       "kind": "CheckboxOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "clmuorf6600op070oe6eyflkh",
+     "featureSchemaId": "clmuorf6600oo070oclzy58vi",
+     "archived": 0,
+     "required": false,
+     "instructions": "metonimia",
+     "name": "metonimia",
+     "type": "text",
+     "position": 7,
+     "kind": "Text",
+     "options": []
+    }
+   ],
+   "kind": "Rectangle"
+  },
+  {
+   "schemaNodeId": "clmunzfh2004k07za90bta52f",
+   "featureSchemaId": "clmunzfh2004j07za9p4zfry8",
+   "required": false,
+   "name": "immagine",
+   "tool": "rectangle",
+   "color": "#FF4A46",
+   "archived": 0,
+   "classifications": [
+    {
+     "schemaNodeId": "clmuocg0q00h507za6vwwcqhd",
+     "featureSchemaId": "clmuocg0q00gy07za4ti4d6x7",
+     "archived": 0,
+     "required": true,
+     "instructions": "closeness",
+     "name": "closeness",
+     "type": "radio",
+     "uiMode": "hotkey",
+     "position": 0,
+     "kind": "RadioQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clmuocg0q00h007za9r0w92x7",
+       "featureSchemaId": "clmuocg0q00gz07za9camfxq8",
+       "label": "focus",
+       "value": "focus",
+       "position": 0,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clnel490p0dla07zofo1kcm5m",
+       "featureSchemaId": "clnel490p0dl907zo1ne75qaq",
+       "label": "landscape",
+       "value": "landscape",
+       "position": 1,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0q00h407zafq3cce28",
+       "featureSchemaId": "clmuocg0q00h307zaguq58bbl",
+       "label": "other",
+       "value": "other",
+       "position": 2,
+       "kind": "RadioOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "clmuocg0q00hf07za4h9vfwz2",
+     "featureSchemaId": "clmuocg0q00h607zah2zs2xog",
+     "archived": 0,
+     "required": true,
+     "instructions": "angle",
+     "name": "angle",
+     "type": "radio",
+     "uiMode": "hotkey",
+     "position": 1,
+     "kind": "RadioQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clmuocg0q00h807zabqyod89h",
+       "featureSchemaId": "clmuocg0q00h707za8wbf1z9e",
+       "label": "top-down",
+       "value": "top_down",
+       "position": 0,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0q00ha07zafxxafw1g",
+       "featureSchemaId": "clmuocg0q00h907zafcnog4m8",
+       "label": "bottom-up",
+       "value": "bottom_up",
+       "position": 1,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0q00hc07za5ze55v6x",
+       "featureSchemaId": "clmuocg0q00hb07za5jrqetev",
+       "label": "eye-level",
+       "value": "eye_level",
+       "position": 2,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0q00he07zaamcw88be",
+       "featureSchemaId": "clmuocg0q00hd07za4tf49jw5",
+       "label": "other",
+       "value": "other",
+       "position": 3,
+       "kind": "RadioOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "clmuocg0p00g107za96fyd946",
+     "featureSchemaId": "clmuocg0p00fw07za4qyn9jnl",
+     "archived": 0,
+     "required": true,
+     "instructions": "metafora",
+     "name": "metafora",
+     "type": "radio",
+     "uiMode": "hotkey",
+     "position": 2,
+     "kind": "RadioQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clmuocg0p00fy07za4wuqdb72",
+       "featureSchemaId": "clmuocg0p00fx07zaemnifu8w",
+       "label": "sì",
+       "value": "si",
+       "position": 0,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0p00g007zaclqc3d62",
+       "featureSchemaId": "clmuocg0p00fz07za4tzc2www",
+       "label": "no",
+       "value": "no",
+       "position": 1,
+       "kind": "RadioOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "clmuocg0p00g507za8ei36vx9",
+     "featureSchemaId": "clmuocg0p00g407za1t1o813o",
+     "archived": 0,
+     "required": false,
+     "instructions": "target domain",
+     "name": "target_domain",
+     "type": "text",
+     "position": 3,
+     "kind": "Text",
+     "options": []
+    },
+    {
+     "schemaNodeId": "clmuocg0p00g307za2iya14ad",
+     "featureSchemaId": "clmuocg0p00g207za5ob71rj3",
+     "archived": 0,
+     "required": false,
+     "instructions": "source domain",
+     "name": "source_domain",
+     "type": "text",
+     "position": 4,
+     "kind": "Text",
+     "options": []
+    },
+    {
+     "schemaNodeId": "clmuocg0p00gd07za2zawdjn8",
+     "featureSchemaId": "clmuocg0p00g607zad24075lu",
+     "archived": 0,
+     "required": false,
+     "instructions": "sentiment",
+     "name": "sentiment",
+     "type": "radio",
+     "uiMode": "hotkey",
+     "position": 5,
+     "kind": "RadioQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clmuocg0p00g807za30lkg3ke",
+       "featureSchemaId": "clmuocg0p00g707za66qcf7lx",
+       "label": "negative",
+       "value": "negative",
+       "position": 0,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0p00ga07zaecu82ee9",
+       "featureSchemaId": "clmuocg0p00g907zadvno8tt6",
+       "label": "neutral",
+       "value": "neutral",
+       "position": 1,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0p00gc07zafqe4fp0u",
+       "featureSchemaId": "clmuocg0p00gb07za04lsgxke",
+       "label": "positive",
+       "value": "positive",
+       "position": 2,
+       "kind": "RadioOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "clmuocg0p00gv07za8tnggmec",
+     "featureSchemaId": "clmuocg0p00ge07za10f43i2n",
+     "archived": 0,
+     "required": false,
+     "instructions": "emotion",
+     "name": "emotion",
+     "type": "checklist",
+     "uiMode": "hotkey",
+     "position": 6,
+     "kind": "CheckboxQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clmuocg0p00gg07za06xb2cxp",
+       "featureSchemaId": "clmuocg0p00gf07za4t3d2fqh",
+       "label": "fear",
+       "value": "fear",
+       "position": 0,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0p00gi07zagqn76hn9",
+       "featureSchemaId": "clmuocg0p00gh07za8vrk29oe",
+       "label": "anger",
+       "value": "anger",
+       "position": 1,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0p00gk07za9gnhgolf",
+       "featureSchemaId": "clmuocg0p00gj07za4cppcoxp",
+       "label": "trust",
+       "value": "trust",
+       "position": 2,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0p00gm07za570k37ee",
+       "featureSchemaId": "clmuocg0p00gl07zadlam8s8w",
+       "label": "sadness",
+       "value": "sadness",
+       "position": 3,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0p00go07zadtrm8ikl",
+       "featureSchemaId": "clmuocg0p00gn07zadaekbk7s",
+       "label": "disgust",
+       "value": "disgust",
+       "position": 4,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0p00gq07zacm29bcbo",
+       "featureSchemaId": "clmuocg0p00gp07zae6kkhq5z",
+       "label": "surprise",
+       "value": "surprise",
+       "position": 5,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0p00gs07za84s452qg",
+       "featureSchemaId": "clmuocg0p00gr07za7am5b57y",
+       "label": "anticipation",
+       "value": "anticipation",
+       "position": 6,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clmuocg0p00gu07za9g0wf5q7",
+       "featureSchemaId": "clmuocg0p00gt07zafg8xcx53",
+       "label": "joy",
+       "value": "joy",
+       "position": 7,
+       "kind": "CheckboxOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "clmuocg0p00gx07zad1sa6br5",
+     "featureSchemaId": "clmuocg0p00gw07za5j698vps",
+     "archived": 0,
+     "required": false,
+     "instructions": "cultural context",
+     "name": "cultural_context",
+     "type": "text",
+     "position": 7,
+     "kind": "Text",
+     "options": []
+    },
+    {
+     "schemaNodeId": "clmuorvpm01ck07zr0ayqgfvb",
+     "featureSchemaId": "clmuorvpm01cj07zr1n7eagr1",
+     "archived": 0,
+     "required": false,
+     "instructions": "metonimia",
+     "name": "metonimia",
+     "type": "text",
+     "position": 8,
+     "kind": "Text",
+     "options": []
+    },
+    {
+     "schemaNodeId": "cln8lzgpm2wqm073jduorbysk",
+     "featureSchemaId": "cln8lzgpm2wql073j310lfvdm",
+     "archived": 0,
+     "required": false,
+     "instructions": "metafora_exp",
+     "name": "metafora_exp",
+     "type": "text",
+     "position": 9,
+     "kind": "Text",
+     "options": []
+    }
+   ],
+   "kind": "Rectangle"
+  },
+  {
+   "schemaNodeId": "clmunzfh2004m07zag0mh9f29",
+   "featureSchemaId": "clmunzfh2004l07zaf8ria80s",
+   "required": false,
+   "name": "partecipante",
+   "tool": "polygon",
+   "color": "#008941",
+   "archived": 0,
+   "classifications": [
+    {
+     "schemaNodeId": "clmuocg0r00hj07zag86ne4v1",
+     "featureSchemaId": "clmuocg0r00hi07za6p6453yi",
+     "archived": 0,
+     "required": false,
+     "instructions": "type",
+     "name": "type",
+     "type": "text",
+     "uiMode": "hotkey",
+     "position": 0,
+     "kind": "Text",
+     "options": []
+    },
+    {
+     "schemaNodeId": "clmuop3rd00qc07zacpy3c5y4",
+     "featureSchemaId": "clmuop3rd00qb07zagd70asw3",
+     "archived": 0,
+     "required": false,
+     "instructions": "gaze",
+     "name": "gaze",
+     "type": "text",
+     "position": 1,
+     "kind": "Text",
+     "options": []
+    },
+    {
+     "schemaNodeId": "clmuop3rd00qe07zafeicfksr",
+     "featureSchemaId": "clmuop3rd00qd07za9eau871n",
+     "archived": 0,
+     "required": false,
+     "instructions": "gesture",
+     "name": "gesture",
+     "type": "text",
+     "position": 2,
+     "kind": "Text",
+     "options": []
+    },
+    {
+     "schemaNodeId": "clmuop3rd00qg07za96ba23xh",
+     "featureSchemaId": "clmuop3rd00qf07za9hx7dbg4",
+     "archived": 0,
+     "required": false,
+     "instructions": "posture",
+     "name": "posture",
+     "type": "text",
+     "position": 3,
+     "kind": "Text",
+     "options": []
+    },
+    {
+     "schemaNodeId": "clnhy9xeq045407xv6k3yabsz",
+     "featureSchemaId": "clnhy9xeq044x07xv2o54cuwj",
+     "archived": 0,
+     "required": true,
+     "instructions": "role",
+     "name": "role",
+     "type": "radio",
+     "position": 4,
+     "kind": "RadioQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clnhy9xeq044z07xv20cwhrvd",
+       "featureSchemaId": "clnhy9xeq044y07xvcdad1lje",
+       "label": "actor",
+       "value": "actor",
+       "position": 0,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clnhy9xeq045107xvdniu7iry",
+       "featureSchemaId": "clnhy9xeq045007xvgc623xfb",
+       "label": "undergoer",
+       "value": "undergoer",
+       "position": 1,
+       "kind": "RadioOption"
+      },
+      {
+       "schemaNodeId": "clnhy9xeq045307xvgwkg6s86",
+       "featureSchemaId": "clnhy9xeq045207xv40kp7tmp",
+       "label": "other",
+       "value": "other",
+       "position": 2,
+       "kind": "RadioOption"
+      }
+     ]
+    },
+    {
+     "schemaNodeId": "clnhy9xer045g07xvamtg76vr",
+     "featureSchemaId": "clnhy9xeq045507xvbre3hatu",
+     "archived": 0,
+     "required": true,
+     "instructions": "processo",
+     "name": "processo",
+     "type": "checklist",
+     "position": 5,
+     "kind": "CheckboxQuestion",
+     "options": [
+      {
+       "schemaNodeId": "clnhy9xer045707xvghoo0p5l",
+       "featureSchemaId": "clnhy9xer045607xvdgwv9fdc",
+       "label": "materiale",
+       "value": "materiale",
+       "position": 0,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clnhy9xer045907xvb4q12n7q",
+       "featureSchemaId": "clnhy9xer045807xvcl8zafsr",
+       "label": "mentale",
+       "value": "mentale",
+       "position": 1,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clnhy9xer045b07xv517d1d5w",
+       "featureSchemaId": "clnhy9xer045a07xv0tz2caww",
+       "label": "relazionale",
+       "value": "relazionale",
+       "position": 2,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clnhy9xer045d07xv0llcg3wx",
+       "featureSchemaId": "clnhy9xer045c07xv3uw7dl8v",
+       "label": "verbale",
+       "value": "verbale",
+       "position": 3,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clnj1anuq18kt07y00snk9qrn",
+       "featureSchemaId": "clnj1anuq18ks07y0h409c49j",
+       "label": "comportamentale",
+       "value": "comportamentale",
+       "position": 4,
+       "kind": "CheckboxOption"
+      },
+      {
+       "schemaNodeId": "clnhy9xer045f07xv934f507h",
+       "featureSchemaId": "clnhy9xer045e07xvfe0381ri",
+       "label": "other",
+       "value": "other",
+       "position": 5,
+       "kind": "CheckboxOption"
+      }
+     ]
+    }
+   ],
+   "kind": "Polygon"
+  }
+ ],
+ "classifications": [
+  {
+   "schemaNodeId": "clmuoq66j04x5070w5gc06hyo",
+   "featureSchemaId": "clmuoq66j04wy070w6et14xr7",
+   "archived": 1,
+   "required": false,
+   "instructions": "dominance of modality",
+   "name": "dominance_of_modality",
+   "type": "radio",
+   "scope": "global",
+   "kind": "RadioQuestion",
+   "options": [
+    {
+     "schemaNodeId": "clmuoq66j04x0070wcugoeb60",
+     "featureSchemaId": "clmuoq66j04wz070wg7uu2gwp",
+     "label": "text",
+     "value": "text",
+     "position": 0,
+     "kind": "RadioOption"
+    },
+    {
+     "schemaNodeId": "clmuoq66j04x2070w2d4a12du",
+     "featureSchemaId": "clmuoq66j04x1070wgr2wgthl",
+     "label": "image",
+     "value": "image",
+     "position": 1,
+     "kind": "RadioOption"
+    },
+    {
+     "schemaNodeId": "clmuoq66j04x4070w61gqei3g",
+     "featureSchemaId": "clmuoq66j04x3070w5ngk5q9s",
+     "label": "complementary",
+     "value": "complementary",
+     "position": 2,
+     "kind": "RadioOption"
+    }
+   ]
+  }
+ ],
+ "relationships": [
+  {
+   "schemaNodeId": "clmuocg0i00er07zacoyhddee",
+   "featureSchemaId": "clmuocg0i00eq07za7z9l3jh3",
+   "required": false,
+   "name": "connected metaphor",
+   "tool": "edge",
+   "color": "#1CE6FF",
+   "archived": 0,
+   "classifications": [],
+   "kind": "Edge"
+  },
+  {
+   "schemaNodeId": "clnhy9xeb042m07xvgrgz1zaj",
+   "featureSchemaId": "clnhy9xeb042l07xv9886ete0",
+   "required": false,
+   "name": "contained",
+   "tool": "edge",
+   "color": "#FF34FF",
+   "archived": 0,
+   "classifications": [],
+   "kind": "Edge"
+  }
+ ],
+ "realTime": false
+}
