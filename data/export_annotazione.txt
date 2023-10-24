@@ -1,0 +1,796 @@
+1 marzo 2020 - Quotidiani italiani - Nazionali corriere-della-sera_0c775fd2034d8208d7f3dfe49c2296a120200301.png.jpg
+	HEIGHT:	806
+	WIDTH:	549
+	AREA:	442494
+
+	area of interest:clnhyc0t900022v6o273ljyt1
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	52206.6323335
+
+	area of interest:clnhycpa500072v6o0a6xozry
+		RELATION:
+		dominance of modality:	image dominant
+		main article:	no
+		area:	17527.746222
+
+	testo:clnhyd6ug000d2v6ou6ahwmbh
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	8500.0
+
+	testo:clnhydnqx000k2v6oqwfy4m4b
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	20500.0
+
+	testo:clnhydvsh000r2v6oigfgcu5r
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	11022.0
+
+	immagine:clnhye6md000y2v6oqze7bprk
+		RELATION:clnhycpa500072v6o0a6xozry
+		metafora:	sì
+		source domain:	calcio
+		sentiment:	positive
+		target domain:	epidemia
+		emotion:	trust
+		closeness:	other
+		angle:	other
+		area:	12971.0
+
+	partecipante:clnhygqen001d2v6o83850ed8
+		RELATION:
+		role:	undergoer
+		processo:	materiale
+		area:	983.7628890000012
+
+	partecipante:clnhyhdil001i2v6o33hwz8rt
+		RELATION:
+		role:	actor
+		processo:	materiale
+		area:	2878.2397779999997
+
+	testo:clnhyifou001s2v6o8d9x7udj
+		RELATION:clnhye6md000y2v6oqze7bprk
+		tipo:	didascalia
+		metafora:	sì
+		metafora_quot:	rinvio
+		target domain:	epidemia
+		source domain:	calcio
+		area:	256.0
+
+
+1 marzo 2020 - Quotidiani italiani - Nazionali il-giornale_0ce6b10f597bed841711518c9fb7ac18.png.jpg
+	HEIGHT:	971
+	WIDTH:	662
+	AREA:	642802
+
+	area of interest:clnhz75gt001b2v6o7nep9y53
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	168571.96000000002
+
+	testo:clnhz7qzs001h2v6o42xrab1o
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	9568.0
+
+	testo:clnhz7yd2001o2v6opm3ejkij
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	55505.0
+
+	testo:clnhz85tk001v2v6oarw64jca
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	43428.0
+
+	testo:clnhz8fga00222v6o7dhe8i32
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	27552.0
+
+	area of interest:clnhz8nud00282v6ocougixbu
+		RELATION:
+		dominance of modality:	image dominant
+		main article:	no
+		area:	79219.99999999997
+
+	testo:clnhz92dw002e2v6oukou1jrc
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	2450.0
+
+	testo:clnhz9emm002l2v6o4xj5fzk2
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		metonimia:	milano da bere
+		area:	9080.0
+
+	testo:clnhza8t5002t2v6oim6q6puh
+		RELATION:
+		tipo:	didascalia
+		metafora:	no
+		area:	3330.0
+
+	immagine:clnhzapwu00302v6obfaqjk5b
+		RELATION:clnhz8nud00282v6ocougixbu
+		metafora:	no
+		closeness:	landscape
+		area:	54960.0
+
+
+1 marzo 2020 - Quotidiani italiani - Nazionali il-sole-24-ore_bd8fa69b2631afdd955f171833be0bcc.png.jpg
+	HEIGHT:	893
+	WIDTH:	662
+	AREA:	591166
+
+	area of interest:clnhzbrsl00382v6oqjrrn8xu
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	50503.49999999999
+
+	testo:clnhzc865003e2v6ovypv186u
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	23548.0
+
+	testo:clnhzclad003l2v6oxhxgkwez
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	9675.0
+
+
+1 marzo 2020 - Quotidiani italiani - Nazionali la-repubblica_ad26e84ba8fb73d903f00786cfc045b8.png.jpg
+	HEIGHT:	985
+	WIDTH:	662
+	AREA:	652070
+
+	area of interest:clnhzbg4702sy07jjgcpx0rf8
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	133458.2545905
+
+	testo:clnhzbg4702sz07jj40oa6s5k
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	5122.0
+
+	testo:clnhzbg4802t407jjgl2lgpg3
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		metonimia:	europa per istituzioni europee
+		area:	66024.0
+
+	testo:clnhzbg4802ta07jjeqz75g2r
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	21443.0
+
+	testo:clnhzbg4802tf07jj970g9a19
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		metonimia:	letto per paziente
+		area:	11462.0
+
+
+1 marzo 2020 - Quotidiani italiani - Nazionali la-stampa_244d20ff05f09a995cf8e7223ea5ac16.png.jpg
+	HEIGHT:	942
+	WIDTH:	662
+	AREA:	623604
+
+	area of interest:clnhzdecl02ps07io1rg10ee4
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	45983.93467050003
+
+	testo:clnhzdecl02pt07iofwffbuts
+		RELATION:
+		tipo:	sottotitolo
+		metonimia:	palazzo chigi per membri del governo; esecutivo per membri del governo; salvini per parlamentari della lega
+		metafora:	no
+		area:	7952.0
+
+	testo:clnhzdecl02px07ioc3koaxbe
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		metonimia:	governo per membri del governo
+		area:	20120.0
+
+	testo:clnhzdecl02q307io9nhm8y68
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	8602.0
+
+
+24 febbraio 2020 - Quotidiani esteri _111008790_ft.jpg
+	HEIGHT:	1065
+	WIDTH:	660
+	AREA:	702900
+
+	area of interest:clnhzlgrm00062v6okensq8nw
+		RELATION:
+		dominance of modality:	complementary
+		main article:	yes
+		area:	227841.25499999998
+
+	testo:clnhzlzip000d2v6oho98bakk
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	36421.0
+
+	testo:clnhzm80z000k2v6o50vx1nxu
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	9400.0
+
+	testo:clnhzmo8r000r2v6oitm1gc6f
+		RELATION:
+		tipo:	didascalia
+		metafora:	no
+		area:	4590.0
+
+	immagine:clnhzmz9b000y2v6ofpfi3qul
+		RELATION:clnhzlgrm00062v6okensq8nw
+		metafora:	no
+		closeness:	landscape
+		angle:	eye-level
+		area:	72216.0
+
+	partecipante:clnhznmc6001a2v6oix4culix
+		RELATION:
+		type:	maschera carnevale
+		posture:	standing
+		role:	actor
+		processo:	comportamentale
+		area:	18596.4778885
+
+	partecipante:clnhzpimi001i2v6oq6048ppm
+		RELATION:
+		type:	sicurezza
+		posture:	standing
+		role:	actor
+		processo:	comportamentale
+		area:	7904.683333499998
+
+
+24 febbraio 2020 - Quotidiani esteri _111008791_tele.jpg
+	HEIGHT:	1027
+	WIDTH:	660
+	AREA:	677820
+
+	area of interest:clnhzqewg001p2v6ol97ovvae
+		RELATION:
+		dominance of modality:	complementary
+		main article:	yes
+		area:	267719.30213
+
+	testo:clnhzqu02001v2v6o2czl336w
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	37098.0
+
+	testo:clnhzr5ne00222v6oeuzbyc62
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	6560.0
+
+	testo:clnhzrod300292v6ojvsfists
+		RELATION:
+		tipo:	didascalia
+		metafora:	no
+		area:	4695.0
+
+	immagine:clnhzrzzz002g2v6o5zum1omm
+		RELATION:clnhzqewg001p2v6ol97ovvae
+		metafora:	no
+		angle:	eye-level
+		closeness:	focus
+		area:	147870.0
+
+	partecipante:clnhzsfzy002q2v6ofls9sm6i
+		RELATION:
+		role:	actor
+		processo:	comportamentale
+		gaze:	towards us
+		type:	maschera carnevale
+		posture:	standing
+		area:	123993.552111
+
+
+24 febbraio 2020 - Quotidiani esteri _111008795_guardian.jpg
+	HEIGHT:	839
+	WIDTH:	660
+	AREA:	553740
+
+	area of interest:clnhztumt002y2v6o1c2k25i6
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	124955.6500085
+
+	testo:clnhzu8e100342v6oaomvvyxl
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	47684.0
+
+	testo:clnhzugcw003b2v6oqkracsv6
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	6681.0
+
+
+24 febbraio 2020 - Quotidiani esteri _111008797_times.jpg
+	HEIGHT:	813
+	WIDTH:	660
+	AREA:	536580
+
+	area of interest:clnj1gdx900012v6om1qhw3xw
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	135124.35745600003
+
+	testo:clnj1gsc300072v6oy6gy3407
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	48006.0
+
+	testo:clnj1h2tq000e2v6oyt7yi1l8
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	3760.0
+
+	area of interest:clnj1h9ji000k2v6o3kc2rerb
+		RELATION:
+		dominance of modality:	image dominant
+		main article:	no
+		area:	130314.0
+
+	immagine:clnj1hoad000q2v6o8k7sgqcj
+		RELATION:clnj1h9ji000k2v6o3kc2rerb
+		metafora:	no
+		angle:	eye-level
+		closeness:	focus
+		area:	112784.0
+
+	testo:clnj1i2q2000x2v6o88oydikd
+		RELATION:
+		tipo:	didascalia
+		metafora:	no
+		area:	7106.0
+
+	partecipante:clnj1imvb00132v6o084l8h2p
+		RELATION:
+		gaze:	towards camera
+		role:	actor
+		processo:	comportamentale
+		area:	113606.331889
+
+
+24 febbraio 2020 - Quotidiani esteri the-independent_a9b9266b21dd1f5fd8ce676999da8fdd.jpg
+	HEIGHT:	933
+	WIDTH:	662
+	AREA:	617646
+
+	area of interest:clnj1lcpi001d2v6o4bwmzb25
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	179614.5368305
+
+	testo:clnj1lr4f001j2v6oqtj1nesf
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	39690.0
+
+	testo:clnj1lykx001q2v6ot3n6jvvx
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	sì
+		metafora_quot:	prepare trade talk battle lines
+		target domain:	political discussion
+		source domain:	guerrilla
+		area:	12766.0
+
+	area of interest:clnj1nfgj001z2v6o409nbdz6
+		RELATION:
+		dominance of modality:	image dominant
+		main article:	no
+		area:	254514.45827249996
+
+	testo:clnj1ntnk00252v6oduswsvot
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	19479.0
+
+	testo:clnj1o0kk002c2v6orpik2gax
+		RELATION:
+		tipo:	didascalia
+		metafora:	no
+		area:	12400.0
+
+	immagine:clnj1oaff002j2v6oqy0qijny
+		RELATION:clnj1nfgj001z2v6o409nbdz6
+		metafora:	no
+		closeness:	focus
+		angle:	eye-level
+		cultural context:	carnevale di venezia
+		area:	209592.0
+
+	partecipante:clnj1oyth002u2v6onovs9k07
+		RELATION:
+		type:	policeman
+		gaze:	towards participant
+		posture:	standing
+		role:	actor
+		processo:	materiale
+		area:	78127.75661799998
+
+	partecipante:clnj1qe3700332v6olaz7kdjy
+		RELATION:
+		type:	maschera veneziana
+		gaze:	towards participant
+		posture:	standing
+		role:	actor
+		processo:	materiale
+		area:	64793.81613199999
+
+
+24 febbraio 2020 - Quotidiani italiani - Nazionali corriere-della-sera_0c775fd2034d8208d7f3dfe49c2296a120200224.png
+	HEIGHT:	806
+	WIDTH:	549
+	AREA:	442494
+
+	area of interest:clnj1rd4t003b2v6olxv4lq58
+		RELATION:
+		dominance of modality:	image dominant
+		main article:	yes
+		area:	127302.5745555
+
+	testo:clnj1rzf6003h2v6om1ztzen6
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	9072.0
+
+	testo:clnj1sbjp003o2v6o6nmbjops
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	20080.0
+
+	testo:clnj1sluk003v2v6ozki08l3k
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	8784.0
+
+	immagine:clnj1swlu00422v6oqxqhb056
+		RELATION:clnj1rd4t003b2v6olxv4lq58
+		metafora:	no
+		closeness:	focus
+		angle:	eye-level
+		area:	75768.0
+
+	testo:clnj1tf1k004b2v6o8uaqv3bh
+		RELATION:
+		tipo:	didascalia
+		metafora:	no
+		area:	3240.0
+
+	partecipante:clnj1ugdb004m2v6o1uedbs9m
+		RELATION:
+		type:	persona comune
+		gesture:	mano sul petto
+		posture:	standing
+		role:	actor
+		processo:	comportamentale
+		area:	14176.037666499999
+
+	partecipante:clnj1vdh8004u2v6ofsfxdll8
+		RELATION:
+		type:	persona comune
+		gesture:	mano su mascherina
+		posture:	standing
+		role:	actor
+		processo:	comportamentale
+		area:	13282.689666999999
+
+
+24 febbraio 2020 - Quotidiani italiani - Nazionali il-giornale_46e453d3474a19105a8c4192b9a8b74f.jpg
+	HEIGHT:	965
+	WIDTH:	662
+	AREA:	638830
+
+	area of interest:clnj1xein00522v6o97j4ciqk
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	174152.81670900004
+
+	testo:clnj1xw2800582v6ow47fl84z
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	sì
+		metafora_quot:	nord come in guerra
+		target domain:	epidemia
+		source domain:	guerra
+		sentiment:	negative
+		emotion:	anger
+		area:	11844.0
+
+	testo:clnj1yk31005m2v6o6zd0oypi
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	55893.0
+
+	testo:clnj1yrv5005t2v6og8rj4ueq
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	36400.0
+
+	testo:clnj1yz2y00602v6ofm2wsml0
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	32700.0
+
+	area of interest:clnj1zpq700662v6oznz0dde0
+		RELATION:
+		dominance of modality:	image dominant
+		main article:	no
+		area:	71859.99991800002
+
+	testo:clnj203f1006c2v6ok5jjgy4r
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	1204.0
+
+	testo:clnj20b29006j2v6olf6nxtqx
+		RELATION:
+		tipo:	titolo
+		metafora:	sì
+		metafora_quot:	assalto ai supermercati
+		target domain:	spesa
+		source domain:	rivoluzione
+		area:	7917.0
+
+	testo:clnj2103m006t2v6o7ef3x2a8
+		RELATION:
+		tipo:	didascalia
+		metafora:	no
+		area:	2600.0
+
+	immagine:clnj218f900702v6ogt280auy
+		RELATION:clnj1zpq700662v6oznz0dde0
+		metafora:	no
+		closeness:	focus
+		angle:	eye-level
+		area:	43050.0
+
+
+24 febbraio 2020 - Quotidiani italiani - Nazionali il-sole-24-ore_4bb50cf0199dd2a36b356eca97e22d7f.jpg
+	HEIGHT:	893
+	WIDTH:	662
+	AREA:	591166
+
+	area of interest:clnj23dxi007a2v6ofomqg7lt
+		RELATION:
+		dominance of modality:	image dominant
+		main article:	yes
+		area:	142168.19892450003
+
+	testo:clnj23r65007g2v6onz1f4mbk
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	23919.0
+
+	immagine:clnj240d6007n2v6o13wp014f
+		RELATION:clnj23dxi007a2v6ofomqg7lt
+		metafora:	no
+		angle:	eye-level
+		closeness:	other
+		area:	124356.0
+
+
+24 febbraio 2020 - Quotidiani italiani - Nazionali la-repubblica_4f5d4257c4fe4915e5a397c49228f67c.jpg
+	HEIGHT:	985
+	WIDTH:	662
+	AREA:	652070
+
+	area of interest:clnj27cgy007x2v6o52llimbo
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	113498.07605149999
+
+	testo:clnj27ra000832v6op5xjiiba
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	47377.0
+
+	testo:clnj283s8008a2v6owllbt99s
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	sì
+		metafora_quot:	assalto ai supermercati
+		target domain:	spesa
+		source domain:	rivoluzione/rivolta
+		area:	23580.0
+
+	testo:clnj28qwk008k2v6ojowmx1bp
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	21780.0
+
+
+24 febbraio 2020 - Quotidiani italiani - Nazionali la-stampa_cc715d66165314a2c825921fb9438f72.jpg
+	HEIGHT:	934
+	WIDTH:	662
+	AREA:	618308
+
+	area of interest:clnhyrml500012v6obse0r0lf
+		RELATION:
+		dominance of modality:	image dominant
+		main article:	yes
+		area:	270758.652533
+
+	immagine:clnhyslsc00072v6ogl5bkju2
+		RELATION:clnhyrml500012v6obse0r0lf
+		metafora:	no
+		closeness:	landscape
+		area:	169020.0
+
+	testo:clnhyt0if000e2v6opsoz6dx3
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	10438.0
+
+	testo:clnhyteeq000l2v6ouawrkwss
+		RELATION:
+		tipo:	titolo
+		metafora:	sì
+		metafora_quot:	ostaggio del virus
+		source domain:	rapimento
+		target domain:	quarantena
+		sentiment:	negative
+		emotion:	anger
+		area:	33178.0
+
+	testo:clnhyug3e000z2v6opk4js2ic
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	16956.0
+
+	testo:clnhyv19n00162v6orcu6k10a
+		RELATION:
+		tipo:	didascalia
+		metafora:	no
+		area:	14443.0
+
+	partecipante:clnhyw3n4001c2v6obfelnf3w
+		RELATION:
+		type:	carabiniere
+		posture:	standing
+		role:	actor
+		processo:	comportamentale
+		area:	5947.0
+
+	partecipante:clnhyxklj001j2v6okqk3rk6z
+		RELATION:
+		type:	carabiniere
+		posture:	standing
+		role:	actor
+		processo:	comportamentale
+		area:	11880.5
+
+
+25 febbraio 2020 - Quotidiani esteri _111024191_financialtimes.jpg
+	HEIGHT:	1065
+	WIDTH:	660
+	AREA:	702900
+
+	area of interest:clnhz3t0n00032v6orfngjp2u
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	121538.063111
+
+	testo:clnhz4cyh00092v6ok004q8eh
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	32292.0
+
+	testo:clnhz4l8g000g2v6ovwuu9wgh
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	9280.0
+
+	immagine:clnhz57rk000n2v6ofin4o997
+		RELATION:clnhz3t0n00032v6orfngjp2u
+		metafora:	no
+		closeness:	focus
+		area:	1748.0
+
+	testo:clnhz5nij000v2v6o53ra4vkg
+		RELATION:
+		tipo:	didascalia
+		metafora:	no
+		area:	3600.0
+
+	partecipante:clnhz5vvv00112v6ov2hga4mg
+		RELATION:
+		role:	actor
+		processo:	comportamentale
+		area:	1641.9879999999998
+
+
+25 febbraio 2020 - Quotidiani esteri _111024195_telegraph.jpg
+	HEIGHT:	1005
+	WIDTH:	660
+	AREA:	663300
+
+	area of interest:clnj29m1v008q2v6ovqyiosmy
+		RELATION:
+		dominance of modality:	text dominant
+		main article:	yes
+		area:	108785.359
+
+	testo:clnj29zrf008w2v6ounbni2us
+		RELATION:
+		tipo:	titolo
+		metafora:	no
+		area:	32000.0
+
+	testo:clnj2abui00932v6oo4b4eyfu
+		RELATION:
+		tipo:	sottotitolo
+		metafora:	no
+		area:	4410.0
+
+

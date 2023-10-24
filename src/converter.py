@@ -5,23 +5,25 @@ import ndjson
 import parsers as ap
 
 
-def convert(source_filename: str) -> None:
+def convert(source_filename: str, output_folder:str = "data") -> None:
     """Main conversion utility
 
     Args:
         source_filename (str): path of ndjson file to be converted
+        output_folder (str, optional): path to output folder. Defaults to "data".
+        
     """
 
     with open(source_filename, encoding="utf-8") as fin:
         data = ndjson.load(fin)
 
 
-    fout_PRIMEPAGINE = open("data/export_primepagine.tsv", "w", encoding="utf-8")
-    fout_ANNOTAZIONI = open("data/export_annotazioni.tsv", "w", encoding="utf-8")
-    fout_AREASOFINTEREST = open("data/export_areasofinterest.tsv", "w", encoding="utf-8")
-    fout_IMAGES = open("data/export_images.tsv", "w", encoding="utf-8")
-    fout_TEXTS = open("data/export_texts.tsv", "w", encoding="utf-8")
-    fout_PARTICIPANTS = open("data/export_participants.tsv", "w", encoding="utf-8")
+    fout_PRIMEPAGINE = open(f"{output_folder}/export_primepagine.tsv", "w", encoding="utf-8")
+    fout_ANNOTAZIONI = open(f"{output_folder}/export_annotazioni.tsv", "w", encoding="utf-8")
+    fout_AREASOFINTEREST = open(f"{output_folder}/export_areasofinterest.tsv", "w", encoding="utf-8")
+    fout_IMAGES = open(f"{output_folder}/export_images.tsv", "w", encoding="utf-8")
+    fout_TEXTS = open(f"{output_folder}/export_texts.tsv", "w", encoding="utf-8")
+    fout_PARTICIPANTS = open(f"{output_folder}/export_participants.tsv", "w", encoding="utf-8")
 
     head_primepagine = "NAME\tWIDTH\tHEIGTH\tAREA\tIN_CROSSVAL"
     print(head_primepagine, file=fout_PRIMEPAGINE)
